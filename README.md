@@ -1,6 +1,7 @@
 # Say it again app for Snips 
 
 [![Build status](https://api.travis-ci.com/koenvervloesem/snips-app-say-it-again.svg?branch=master)](https://travis-ci.com/koenvervloesem/snips-app-say-it-again) [![Maintainability](https://api.codeclimate.com/v1/badges/85a21cdc831d667ec532/maintainability)](https://codeclimate.com/github/koenvervloesem/snips-app-say-it-again/maintainability) [![Code quality](https://api.codacy.com/project/badge/Grade/336aac5c6a324dde9767e75a254f34af)](https://www.codacy.com/app/koenvervloesem/snips-app-say-it-again) [![Python versions](https://img.shields.io/badge/python-3.5|3.6|3.7-blue.svg)](https://www.python.org) [![GitHub license](https://img.shields.io/github/license/koenvervloesem/snips-app-say-it-again.svg)](https://github.com/koenvervloesem/snips-app-say-it-again/blob/master/LICENSE) [![Languages](https://img.shields.io/badge/i18n-en|de|fr|it-brown.svg)](https://github.com/koenvervloesem/snips-app-say-it-again/tree/master/translations) [![Snips App Store](https://img.shields.io/badge/snips-app-blue.svg)](https://console.snips.ai/store/en/skill_YoV709qZP3n)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkoenvervloesem%2Fsnips-app-say-it-again.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkoenvervloesem%2Fsnips-app-say-it-again?ref=badge_shield)
 
 With this [Snips](https://snips.ai/) app, you can ask your voice assistant to repeat its last message, the last text it captured from your speech or the last action it has performed.
 
@@ -26,3 +27,7 @@ This app recognizes the following intents:
 ## Copyright
 
 This app is provided by [Koen Vervloesem](mailto:koen@vervloesem.eu) as open source software. See LICENSE for more information.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkoenvervloesem%2Fsnips-app-say-it-again.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkoenvervloesem%2Fsnips-app-say-it-again?ref=badge_large)
